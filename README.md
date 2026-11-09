@@ -29,7 +29,7 @@
 ## Результат:
 Модель с сезонностью показала Fill Rate 97.07%, сократила дефицит на 13 дней и упущенных продаж на 77 шт по сравнению с базовой моделью
 
-![Экспорт полной аналитики в Excel](images/excel_table.jpg)
+![Таблица расчетов в Excel](images/excel_table.jpg)
 
 ## Стек
 Python (Pandas, NumPy), Excel, Backtesting.
