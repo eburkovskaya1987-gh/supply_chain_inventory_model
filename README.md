@@ -45,4 +45,4 @@ pip install pandas numpy openpyxl xlsxwriter
 bash
 python main_Lifecycle_ABC_XYZ.py
 
-*Примечание: Для запуска требуется файл с историческими данными (не включен в репозиторий).*
+
